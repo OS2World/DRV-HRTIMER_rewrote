@@ -1,0 +1,6 @@
+LIBRARY HRTIMER
+DESCRIPTION '@#Code Blazers/Heinz Repp:1.01#@ High Resolution Timer'
+SEGMENTS
+   _DATA    CLASS 'DATA'
+   _TEXT    CLASS 'CODE'
+PROTMODE
